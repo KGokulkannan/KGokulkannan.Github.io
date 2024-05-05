@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(4, 4, 43);
+    color: white;
+    font-family:'poppins',sans-serif;
+    font-size: 25px;
+}
+img{
+    height:550px;
+    width:40%;
+    padding: 20px;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-indent: 10px;
+    margin-left: 20px;
+    width:95%;
+}
+a{
+    text-align:left; 
+}
